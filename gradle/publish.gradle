@@ -4,8 +4,8 @@ apply plugin: "maven-publish"
 afterEvaluate {
     publishing {
         publications {
-            mavenJava(MavenPublication) {
-                from components.java
+            release(MavenPublication) {
+                from components.release
 
                 group = PROJ_GROUP
                 artifactId = PROJ_ARTIFACTID
