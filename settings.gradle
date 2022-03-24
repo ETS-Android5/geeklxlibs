@@ -7,7 +7,7 @@
 //
 //    }
 //}
-rootProject.name = "geeklxlibs"
+rootProject.name = "geeklibs"
 //include ':app'
 // start aar
 include ':libsCenter', ':biz-libs'
@@ -23,23 +23,19 @@ include ':libsCenterNew',
 // end aar
 
 // commonlibs
-include ':libagentweb20'
-include ':libmvp'
+include ':libgeek'
+//include ':libagentweb20'
+//include ':libmvp'
+include ':libotherlibs'
+include ':libbase'
 include ':libutils'
-include ':libretrofit'
-include ':libglide47'
-include ':libwebview'
-include ':libswipebacklayout'
-include ':librararyforfileprovdider'
-include ':liblanguage'
-include ':libtablayout'
-include ':libopendroid'
-
-//include ':libbase'
-
-//include ':libgeek'
-//include ':libotherlibs'
+//include ':libretrofit'
+//include ':libglide47'
+//include ':libwebview'
+//include ':libswipebacklayout'
+//include ':librararyforfileprovdider'
 //include ':libzxing'
+//include ':liblanguage'
 //include ':libxuanzeqi'
 //include ':zdkplayer:dkplayer-java'
 //include ':zdkplayer:dkplayer-players:ijkexo'
@@ -53,6 +49,8 @@ include ':libopendroid'
 //include ':libpictureselector'
 //include ':liblinkagerecyclerview'
 //include ':libexpandablerecyclerview'
+//include ':libtablayout'
 //include ':libcitypicker'
 //include ':liblocations'
-include ':libocr'
+//include ':libopendroid'
+//include ':libocr'
