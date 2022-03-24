@@ -24,11 +24,11 @@ include ':libsCenterNew',
 
 // commonlibs
 include ':libgeek'
+//include ':libotherlibs'
+//include ':libbase'
+//include ':libutils'
 //include ':libagentweb20'
 //include ':libmvp'
-include ':libotherlibs'
-include ':libbase'
-include ':libutils'
 //include ':libretrofit'
 //include ':libglide47'
 //include ':libwebview'
