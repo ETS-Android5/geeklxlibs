@@ -1,9 +1,9 @@
 ext {
 
-    compileSdkVersion = 32
+    compileSdkVersion = 31
 //    buildToolsVersion = '30.0.3'
-    minSdkVersion = 21
-    targetSdkVersion = 32
+    minSdkVersion = 23
+    targetSdkVersion = 31
 //    supportLibVersion = '30.0.0'
 
     // 灯塔VPN版本号
