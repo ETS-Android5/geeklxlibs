@@ -42,7 +42,7 @@
         android:layout_toStartOf="@id/align"
         android:layout_toLeftOf="@id/align"
         android:background="#808"
-        android:src="@drawable/icon_delete_normal" />
+        android:src="@mipmap/ic_launcher11" />
 
     <ImageView
         android:id="@+id/svg_image_view2"
@@ -56,6 +56,6 @@
         android:layout_toEndOf="@id/align"
         android:layout_toRightOf="@id/align"
         android:background="#088"
-        android:src="@drawable/icon_delete_normal" />
+        android:src="@mipmap/ic_launcher11" />
 
 </RelativeLayout>
