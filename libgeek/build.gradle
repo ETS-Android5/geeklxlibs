@@ -5,7 +5,7 @@ dependencies {
     //
 //    api project(':libbase')
 //    api project(':libotherlibs')
-    api project(':libutils')
+//    api project(':libutils')
 //    api project(':libmvp')
 //    api project(':libretrofit')
 //    api project(':libswipebacklayout')
